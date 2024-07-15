@@ -38,15 +38,15 @@ def distribute_dataset(img_folder, txt_folder, yaml_paths):
 
 
 # Paths
-img_folder_path = "C:/Users/lenovo/Downloads/yolov8-Vehicle-Detection/Vehicle_Dataset/images"
-txt_folder_path = "C:/Users/lenovo/Downloads/yolov8-Vehicle-Detection/Vehicle_Dataset/labels"
+img_folder_path = ""
+txt_folder_path = ""
 yaml_paths = {
-    'train_img': "C:/Users/lenovo/Downloads/yolov8-Vehicle-Detection/data/train/images",
-    'train_txt': "C:/Users/lenovo/Downloads/yolov8-Vehicle-Detection/data/train/labels",
-    'val_img': "C:/Users/lenovo/Downloads/yolov8-Vehicle-Detection/data/valid/images",
-    'val_txt': "C:/Users/lenovo/Downloads/yolov8-Vehicle-Detection/data/valid/labels",
-    'test_img': "C:/Users/lenovo/Downloads/yolov8-Vehicle-Detection/data/test/images",
-    'test_txt': "C:/Users/lenovo/Downloads/yolov8-Vehicle-Detection/data/test/labels"
+    'train_img': "",
+    'train_txt': "",
+    'val_img': "",
+    'val_txt': "",
+    'test_img': "",
+    'test_txt': ""
 
 }
 

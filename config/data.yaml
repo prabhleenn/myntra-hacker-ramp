@@ -1,5 +1,5 @@
-train: /content/drive/MyDrive/yolov8-Vehicle-Detection/data/train
-val: /content/drive/MyDrive/yolov8-Vehicle-Detection/data/valid
-test: /content/drive/MyDrive/yolov8-Vehicle-Detection/data/test
-nc: 9
-names: ['car', 'two-wheeler', 'bus', 'tempo', 'truck', 'auto', 'tractor', 'bicycle', 'van']
+train: /content/drive/MyDrive/myntra-yolov8/data/train
+val: /content/drive/MyDrive/myntra-yolov8/data/valid
+test: /content/drive/MyDrive/myntra-yolov8/data/test
+nc: 3
+names: ['accessory', 'jeans', 'top']
